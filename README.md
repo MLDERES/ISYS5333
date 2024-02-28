@@ -10,7 +10,7 @@ For Fllow the tutorial on deploying a Python and PostgreSQL app in Azure App Ser
 
 **Note:** Instead of using the GitHub project suggested in the tutorial, we will utilize our own project located at: [https://github.com/molin6/restaurantweb-azure-appservice](https://github.com/molin6/restaurantweb-azure-appservice).
 
-Please begin directly from **Step 1** of the tutorial, applying the following changes and additions as you proceed. Also feel free to use your own nameing inst Step 2:
+Please begin directly from **Step 1** of the tutorial, applying the following changes and additions as you proceed. Also feel free to use your own naming in Step 2:
 
 ### Changes and Additions
 

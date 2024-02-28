@@ -1,5 +1,7 @@
 from django.shortcuts import render
-from .models import MenuItem, MenuSection
+from restaurant.models import MenuItem, MenuSection
+
+# Create your views here.
 
 def home(request):
     return render(request, 'restaurant/home.html')  # Render the home page

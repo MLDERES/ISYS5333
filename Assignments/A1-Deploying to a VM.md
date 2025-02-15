@@ -25,7 +25,7 @@ We'll start by creating a virtual machine.  We are not going to cover every sing
 - In the marketplace, find SQL Server 2022 on Windows Server 2022 and choose the free SQL license version using SQL Server 2022 Developer. Then follow the prompts to create the VM, using the hints below.
   
 #### VM Settings
-  - Select a small VM size, but not too small (since this application is not expected to have a lot of traffic).  A D2s_v3 with 2 vCPUs and 8 GB RAM should be sufficient.
+  - Select a small VM size, _but not too small_ (since this application is not expected to have a lot of traffic).  A D2s_v3 with 2 vCPUs and 8 GB RAM should be sufficient.
   - Ensure that you are picking Standard HDD for the OS disk type (and a very small size, like 32GB).
   - Enable inbound ports for HTTP and RDP. (80 and 3389)
   - Enable Auto Shutdown.
